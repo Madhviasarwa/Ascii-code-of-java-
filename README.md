@@ -1,7 +1,11 @@
 # Ascii-code-of-java
 🅰️ ASCII Project
 👩‍💻 About the Project
-Hello! I'm Harshita Jangid, a BCA 2nd-year student at Dezyne École College, Ajmer. This is my Java-based ASCII Project, created as part of my 3rd semester learning journey in Java programming.
+Hello! I'm Madhvi, 
+a BCA 2nd-year student
+at Dezyne École College, Ajmer. 
+This is my Java-based ASCII Project, 
+created as part of my 3rd semester learning journey in Java programming.
 
 The ASCII Project allows users to print creative and customizable patterns using alphabets, numbers, strings, special characters, and more! It’s a fun and interactive way to understand Java’s logic, loops, and ASCII values.
 
